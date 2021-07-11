@@ -3,11 +3,11 @@
 ### I'm a web developer
 
 - :star2: I'm currently working on a real proyect at [Hackademy][hackademy]
-
+- <a href="https://www.itsmejordi.live/#/">Portfolio</a>
 - :computer: I like web design and making websites with React Js
 - :muscle: Fun fact: I'm a wrestling fan
 - :boy: I'm currently a student at Instituto Tecnologico de Tijuana
-- <a href="https://www.itsmejordi.live/#/">Portfolio</a>
+
 ![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordiEspinozaMendoza&show_icons=true)
 
 
