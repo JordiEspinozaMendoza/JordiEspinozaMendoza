@@ -36,7 +36,7 @@
 
 [<img align="left" alt="email" width="30px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>][vsc]
 
-
+[<img align="left" src = "https://c.tenor.com/AUjXAe0yyx8AAAAC/kermit-typing.gif"/>]
 
 
 
