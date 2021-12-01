@@ -1,8 +1,7 @@
-### Hey everyone, I'm Jordi - aka itsMeJordi
-
+### Hey everyone, I'm Jordi 
 ### I'm a web developer
 
-- :star2: I'm currently working on a real proyect at [Hackademy][hackademy]
+- :star2: I'm currently working at [Hackademy][hackademy]
 - <a href="https://www.itsmejordi.live/#/">Portfolio</a>
 - :computer: I like web design and making websites with React Js
 - :muscle: Fun fact: I'm a wrestling fan
@@ -36,7 +35,7 @@
 
 [<img align="left" alt="email" width="30px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>][vsc]
 
-[<img src = "https://c.tenor.com/AUjXAe0yyx8AAAAC/kermit-typing.gif"/>]
+<img src = "https://c.tenor.com/AUjXAe0yyx8AAAAC/kermit-typing.gif"/>
 
 
 
