@@ -49,5 +49,4 @@
 [sql]: https://www.w3schools.com/sql/default.asp
 [react]: https://es.reactjs.org/
 [azure]: https://azure.microsoft.com/en-us/
-[vs]: https://visualstudio.microsoft.com/es/
 [vsc]: https://code.visualstudio.com/
