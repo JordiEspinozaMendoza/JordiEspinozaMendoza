@@ -2,6 +2,8 @@
 
 ### I'm a Frontend developer
 
+Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop web applications with React and Django and help others to learn new technologies. He is founder of the Tribal Devs community, an organization who wants to help students to develop software with the newest technologies. Currently, Jordi is a freelancer and a Frontend Developer at Hackademy MX.
+
 - :star2: I'm currently working at <a href="https://hackademy.lat/">Hackademy MX</a> as a Frontend Developer.
 - 🚩 <a href="https://githubcampus.expert/JordiEspinozaMendoza/">GitHub Campus Expert</a> since 2021
 - :star2: I'm Founder of Tribal Devs Community.
@@ -11,6 +13,13 @@
 - <a href="https://www.itsmejordi.live/#/">Here is my portfolio</a>
 - :muscle: Fun fact: I'm a wrestling fan
 
+#### I'm currently
+- Reading Cracking The Coding Interview
+- Being a Mentor at Hackademy MX
+- Learning Next.js
+- Giving talks at conferences
+- Collaborating with UABC
+- Working on my own projects
 
 #### Languages and Tools:
 <div>
@@ -30,6 +39,10 @@
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub logo" width="30px" height="30px">
 <!-- Heroku logo -->
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_PDAgHzLrz4TBMQ6QcLuxKvLNlaC1f8rzNCpcLzq-N_95yRssEoTSPZpW0aPvlTyLVUY&usqp=CAU" alt="Heroku logo" width="30px" height="30px">
+<!-- Azure logo -->
+<img src="https://teorema-rd.com/storage/2020/06/Azure-1.png" alt="Azure logo" width="30px" height="30px">
+<!-- Figma logo -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma logo" width="30px" height="30px">
 </div>
 
 #### Let's get in touch
