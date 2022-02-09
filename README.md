@@ -1,20 +1,20 @@
-### Hey everyone, I'm Jordi - aka itsMeJordi
+### Hey everyone, I'm Jordi
 
-### I'm a web developer
 
-- :star2: I'm currently working on a real proyect at [Hackademy][hackademy]
-- <a href="https://www.itsmejordi.live/#/">Portfolio</a>
 - :computer: I like web design and making websites with React Js
+- :star2: Padawan at [Hackademy][hackademy]
+- 🚩 GitHub Campus Expert
+- <a href="https://www.itsmejordi.live/#/">Here is my portfolio</a>
 - :muscle: Fun fact: I'm a wrestling fan
-- :boy: I'm currently a student at Instituto Tecnologico de Tijuana
+- :boy: Computer System Engineer student at Instituto Tecnologico de Tijuana
 
 ![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordiEspinozaMendoza&show_icons=true)
 
 
-### Let's get in touch
+#### Let's get in touch
 [<img align="left" alt="email" width="22px" src = "https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedlin] 
 <br>
-### Languages and Tools:
+#### Languages and Tools:
 
 [<img align="left" alt="email" width="22px" src = "https://image.flaticon.com/icons/png/512/732/732212.png"/>][html]
 
@@ -36,7 +36,7 @@
 
 [<img align="left" alt="email" width="30px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"/>][vsc]
 <br/>
-[<img src="https://c.tenor.com/AUjXAe0yyx8AAAAC/kermit-typing.gif"/>]
+<img src="https://c.tenor.com/AUjXAe0yyx8AAAAC/kermit-typing.gif"/>
 
 
 
