@@ -63,7 +63,7 @@ Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop we
 
 ![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordiEspinozaMendoza&show_icons=true)
 
-|     Class      | Schedule |
+|     Subject      | Schedule |
 | :------------: | :------: |
 |    Admon DB    | L-V 1 pm |
 |  Ing software  | L-V 2 pm |
