@@ -2,8 +2,9 @@
 
 ### I'm a Frontend developer
 
+<p align="center">
 <img src="./Jordi.png" style="width:450px;height:250px;display:block;margin:0 1rem;margin:0 auto;margin-bottom:1rem;margin-top:1rem;">
-
+</p>
 Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop web applications with React and Django and help others to learn new technologies. He is founder of the Tribal Devs community, an organization who wants to help students to develop software with the newest technologies. Currently, Jordi is a freelancer and a Frontend Developer at Hackademy MX.
 
 - :star2: I'm currently working at <a href="https://hackademy.lat/">Hackademy MX</a> as a Frontend Developer.
@@ -11,11 +12,12 @@ Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop we
 - :star2: I'm Founder of Tribal Devs Community.
 - <a href="https://www.itsmejordi.live/#/">Portfolio</a>
 - :computer: I like web design and making websites.
-- :star2: Former Padawan at <a href="https://hackademy.lat/">Hackademy MX</a> 
+- :star2: Former Padawan at <a href="https://hackademy.lat/">Hackademy MX</a>
 - <a href="https://www.itsmejordi.live/#/">Here is my portfolio</a>
 - :muscle: Fun fact: I'm a wrestling fan
 
 #### I'm currently
+
 - Reading Cracking The Coding Interview
 - Being a Mentor at Hackademy MX
 - Learning Next.js
@@ -24,6 +26,7 @@ Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop we
 - Working on my own projects
 
 #### Languages and Tools:
+
 <div>
 <!-- HTML logo -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML logo" width="30px" height="30px">
@@ -58,9 +61,7 @@ Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop we
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
 </a>
 
-
 ![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordiEspinozaMendoza&show_icons=true)
-
 
 |     Class      | Schedule |
 | :------------: | :------: |
