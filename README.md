@@ -3,7 +3,7 @@
 ### I'm a Frontend developer
 
 <p align="center">
-<img src="./Jordi.png" style="width:850px;height:400px;display:block;margin:0 1rem;margin:0 auto;margin-bottom:1rem;margin-top:1rem;object-fit:cover;">
+<img src="./Jordi.png" style="object-fit:contain;display:block;margin:0 1rem;margin:0 auto;margin-bottom:1rem;margin-top:1rem;object-fit:cover;">
 </p>
 Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop web applications with React and Django and help others to learn new technologies. He is founder of the Tribal Devs community, an organization who wants to help students to develop software with the newest technologies. Currently, Jordi is a freelancer and a Frontend Developer at Hackademy MX.
 
