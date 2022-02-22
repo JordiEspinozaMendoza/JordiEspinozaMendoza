@@ -1,6 +1,6 @@
 ### Hey everyone, I'm Jordi :)
 
-### I'm a Frontend developer
+### I'm a Frontend developer 🚩
 
 <p align="center">
 <img src="./Jordi.png" style="object-fit:contain;display:block;margin:0 1rem;margin:0 auto;margin-bottom:1rem;margin-top:1rem;object-fit:cover;">
