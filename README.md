@@ -68,11 +68,11 @@ The skills that make me efficient in my career are my organized work schedules, 
 
 ![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordiEspinozaMendoza&show_icons=true)
 
-<!-- |     Subject      | Schedule |
+|     Subject      | Schedule |
 | :------------: | :------: |
 |    Admon DB    | L-V 1 pm |
 |  Ing software  | L-V 2 pm |
 | Lang Automotas | L-J 3 pm |
 | Lang Interfaz  | L-J 4 pm |
 |   Taller SO    | L-J 4 pm |
-|     Redes      | L-V 6 pm | -->
+|     Redes      | L-V 6 pm |
