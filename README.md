@@ -9,7 +9,7 @@ Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop we
 
 - :star2: I'm currently working at <a href="https://hackademy.lat/">Hackademy MX</a> as a Frontend Developer.
 - 🚩 <a href="https://githubcampus.expert/JordiEspinozaMendoza/">GitHub Campus Expert</a> since 2021
-- :star2: I'm Founder of Tribal Devs Community.
+- :star2: I'm Founder of the <a href="https://www.tribaldevs.com/">Tribal Devs</a> Community.
 - <a href="https://www.itsmejordi.live/#/">Portfolio</a>
 - :computer: I like web design and making web applications.
 - :star2: Former Padawan at <a href="https://hackademy.lat/">Hackademy MX</a>
