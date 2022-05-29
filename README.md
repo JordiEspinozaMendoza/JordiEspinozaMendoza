@@ -2,9 +2,6 @@
 
 ### I'm a Frontend developer 🚩
 
-<p align="center">
-<img src="./banner.png" style="object-fit:contain;display:block;margin:0 1rem;margin:0 auto;margin-bottom:1rem;margin-top:1rem;object-fit:cover;">
-</p>
 Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop web applications with React and Django and help others to learn new technologies. He is founder of the Tribal Devs community, an organization who wants to help students to develop software with the newest technologies. Currently, Jordi is a freelancer and a Frontend Developer at Hackademy MX.
 
 - :star2: I'm currently working at <a href="https://hackademy.lat/">Hackademy MX</a> as a Frontend Developer.
@@ -67,12 +64,6 @@ The skills that make me efficient in my career are my organized work schedules, 
 </a>
 
 ![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordiEspinozaMendoza&show_icons=true)
-
-<!-- |     Subject      | Schedule |
-| :------------: | :------: |
-|    Admon DB    | L-V 1 pm |
-|  Ing software  | L-V 2 pm |
-| Lang Automotas | L-J 3 pm |
-| Lang Interfaz  | L-J 4 pm |
-|   Taller SO    | L-J 4 pm |
-|     Redes      | L-V 6 pm | -->
+<p align="center">
+<img src="./banner.png" style="object-fit:contain;display:block;margin:0 1rem;margin:0 auto;margin-bottom:1rem;margin-top:1rem;object-fit:cover;">
+</p>
