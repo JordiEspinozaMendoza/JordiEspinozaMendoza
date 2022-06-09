@@ -64,6 +64,3 @@ The skills that make me efficient in my career are my organized work schedules, 
 </a>
 
 ![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordiEspinozaMendoza&show_icons=true)
-<p align="center">
-<img src="./banner.png" style="object-fit:contain;display:block;margin:0 1rem;margin:0 auto;margin-bottom:1rem;margin-top:1rem;object-fit:cover;">
-</p>
