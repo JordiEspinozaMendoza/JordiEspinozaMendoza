@@ -23,34 +23,14 @@ The skills that make me efficient in my career are my organized work schedules, 
 - Collaborating with UABC
 - Working on my own projects
 
-#### Languages and Tools:
+#### Technologies I use
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%230077b5.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html-%23e34f2c.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css-%23563d7c.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DBFB) ![Django](https://img.shields.io/badge/django-%2523323330.svg?style=for-the-badge&logo=django&logoColor=%2523F7DF1E) ![Next.js](https://img.shields.io/badge/next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=%2523F7DF1E) ![AWS](https://img.shields.io/badge/aws-%23e34f2c.svg?style=for-the-badge&logo=aws&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=%2523F7DF1E) ![Git](https://img.shields.io/badge/git-%23f7df1e.svg?style=for-the-badge&logo=git&logoColor=%2523F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=%2523F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23323330.svg?style=for-the-badge&logo=heroku&logoColor=%2523F7DF1E)
 
-<div>
-<!-- HTML logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML logo" width="30px" height="30px">
-<!-- CSS logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo" width="30px" height="30px">
-<!-- Sass logo -->
-<img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass logo" width="30px" height="30px">
-<!-- JavaScript logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript logo" width="30px" height="30px">
-<!-- React logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React logo" width="30px" height="30px">
-<!-- Netlify logo -->
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify logo" width="30px" height="30px">
-<!-- GitHub logo -->
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub logo" width="30px" height="30px">
-<!-- Heroku logo -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_PDAgHzLrz4TBMQ6QcLuxKvLNlaC1f8rzNCpcLzq-N_95yRssEoTSPZpW0aPvlTyLVUY&usqp=CAU" alt="Heroku logo" width="30px" height="30px">
-<!-- Azure logo -->
-<img src="https://teorema-rd.com/storage/2020/06/Azure-1.png" alt="Azure logo" width="30px" height="30px">
-<!-- Figma logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma logo" width="30px" height="30px">
-</div>
+
 
 #### Education & Qualifications:
-- AZ-900: MICROSOFT AZURE FUNDAMENTALS
 
+![Azure](https://img.shields.io/badge/az_900_microsoft_azure_fundamentals-%23323330.svg?style=for-the-badge&logo=microsoft&logoColor=%2523F7DF1E)
 
 #### Let's get in touch
 
