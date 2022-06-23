@@ -1,4 +1,4 @@
-### Hey everyone, I'm Jordi :)
+### Hey everyone, I'm Jordi 👍
 
 ### I'm a Frontend developer 🚩
 
