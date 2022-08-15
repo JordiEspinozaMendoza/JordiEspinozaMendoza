@@ -10,6 +10,7 @@ Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop we
 - :star2: Former Padawan at <a href="https://hackademy.lat/">Hackademy MX</a>
 - :muscle: Fun fact: I'm a wrestling fan
 
+
 The skills that make me efficient in my career are my organized work schedules, my initiative to learn new technologies, etc. These abilities help me develop my projects successfully
 
 #### I'm currently
