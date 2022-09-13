@@ -8,7 +8,6 @@ Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop we
 - :star2: I'm Founder of the <a href="https://www.tribaldevs.com/">Tribal Devs</a> Community.
 - Here is my <a href="https://www.itsmejordi.live/#/">Portfolio</a>.
 - :computer: I like web design and making web applications.
-- :star2: Former Padawan at <a href="https://hackademy.lat/">Hackademy MX</a>
 - :muscle: Fun fact: I'm a wrestling fan
 
 
