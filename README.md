@@ -17,7 +17,7 @@ The skills that make me efficient in my career are my organized work schedules, 
 - Reading Cracking The Coding Interview
 - Being a Mentor at Hackademy MX
 - Giving talks at conferences
-- Collaborating with UABC
+- Learning Swift
 - Working on my own projects
 
 #### Technologies
