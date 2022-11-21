@@ -28,7 +28,7 @@ The skills that make me efficient in my career are my organized work schedules, 
 
 ![Azure](https://img.shields.io/badge/az_900_microsoft_azure_fundamentals-%23323330.svg?style=for-the-badge&logo=microsoft&logoColor=%2523F7DF1E)
 
-<a href="https://tectijuanabc-my.sharepoint.com/personal/l19211633_tijuana_tecnm_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fl19211633%5Ftijuana%5Ftecnm%5Fmx%2FDocuments%2FCert40112236317%2Epdf&parent=%2Fpersonal%2Fl19211633%5Ftijuana%5Ftecnm%5Fmx%2FDocuments&ga=1">View certificate</a>
+<a href="https://portfolio-jordi.s3.amazonaws.com/Azure+Fundamentals.pdf">View certificate</a>
 
 #### Let's get in touch
 
