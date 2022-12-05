@@ -32,5 +32,6 @@ The skills that make me efficient in my career are my organized work schedules, 
 
 #### Let's get in touch
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%2523F7DF1E)](https://www.linkedin.com/in/jordiespinoza/) [![Email](https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E)](mailto:jordi8101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=%2523F7DF1E)](https://www.linkedin.com/in/jordiespinoza/) 
+[![Email](https://img.shields.io/badge/email-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=%2523F7DF1E)](mailto:jordi8101@gmail.com)
 
