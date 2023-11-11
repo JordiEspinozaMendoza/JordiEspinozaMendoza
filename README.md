@@ -1,8 +1,8 @@
 ### Hey everyone, I'm Jordi 👍
 
-Jordi is a Frontend Developer and a Github Campus Expert. He loves to develop web applications with React and Django and help others to learn new technologies. He is founder of the Tribal Devs community, an organization who wants to help students to develop software with the newest technologies. Currently, Jordi is a freelancer and a Frontend Developer at Hackademy MX.
+Jordi is a Full Stack Developer and a Github Campus Expert. He loves to develop web applications and help others to learn new technologies. He is founder of the Tribal Devs community, an organization who wants to help students to develop software with the newest technologies. Currently, Jordi is a freelancer and a Full Stack Engineer trainee at ITjuana.
 
-- :star2: I'm currently working at <a href="https://itjuana.com/">Itjuana</a> as a Full Stack Developer.
+- :star2: I'm currently working at <a href="https://itjuana.com/">Itjuana</a> as a Full Stack Engineer trainee.
 - 🚩 <a href="https://githubcampus.expert/JordiEspinozaMendoza/">GitHub Campus Expert</a> since 2021
 - :star2: I'm Founder of the <a href="https://www.tribaldevs.com/">Tribal Devs</a> Community.
 - Here is my <a href="https://www.itsmejordi.live/#/">Portfolio</a>.
