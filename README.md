@@ -4,8 +4,7 @@ Jordi is a Full Stack Developer and a Github Campus Expert. He loves to develop 
 
 - :star2: I'm currently working at <a href="https://itjuana.com/">ITJuana</a> as a Software Engineer.
 - 🚩 <a href="https://githubcampus.expert/JordiEspinozaMendoza/">GitHub Campus Expert</a> since 2021
-- :star2: I'm Founder of the <a href="https://www.tribaldevs.com/">Tribal Devs</a> Community.
-- :computer: I like web design and making web applications.
+- :star2: Founder of the <a href="https://www.tribaldevs.com/">Tribal Devs</a> Community.
 - :muscle: Fun fact: I'm a wrestling fan
 
 
