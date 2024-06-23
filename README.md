@@ -1,6 +1,6 @@
 ### Hey everyone, I'm Jordi 👍
 
-Jordi is a Full Stack Developer and a Github Campus Expert. He loves to develop web applications and help others to learn new technologies. He is founder of the Tribal Devs community, an organization who wants to help students to develop software with the newest technologies. Currently, Jordi is a freelancer and a Full Stack Engineer trainee at ITjuana.
+Software Engineer with over 3 years of experience in software development, focusing on full stack development. Member of GitHub Campus Experts and founder of Tribal Devs, a community organization dedicated to help software engineer students. My goal is to learn the best practices and principles to craft robust systems
 
 - :star2: I'm currently working at <a href="https://itjuana.com/">ITJuana</a> as a Software Engineer.
 - 🚩 <a href="https://githubcampus.expert/JordiEspinozaMendoza/">GitHub Campus Expert</a> since 2021
